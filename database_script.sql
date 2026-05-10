@@ -35,3 +35,5 @@ DESCRIBE profile;
 
 -- View all inserted profiles
 SELECT * FROM profile;
+
+-- minor tweak 1
