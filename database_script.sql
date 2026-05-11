@@ -37,3 +37,5 @@ DESCRIBE profile;
 SELECT * FROM profile;
 
 -- minor tweak 1
+
+-- minor tweak 6
